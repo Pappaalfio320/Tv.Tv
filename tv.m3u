@@ -65,7 +65,7 @@ https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/MotorTrend
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/2560px-HGTV_Logo.svg.png" group-title="Discovery", Hgtv
 https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/HGTV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WarnerTV_France_2021.svg/1200px-WarnerTV_France_2021.svg.png" group-title="Discovery", Warner Tv 
-https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/wbtv
+https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/Warner TV
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/k2-cover.jpg" group-title="Discovery", K2
 https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/K2
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/frisbee-cover.jpg" group-title="Discovery", Frisbee
