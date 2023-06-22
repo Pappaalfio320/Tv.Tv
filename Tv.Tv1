@@ -929,6 +929,8 @@ https://rakuten-spotlight-6-eu.rakuten.wurl.tv/3000.m3u8
 https://alchimie-big-name-rakuten.amagi.tv/playlist1080_p.m3u8
 #EXTINF:-1 channel-id="pluto-63c923944207be0007fd0887" tvg-id="63c923944207be0007fd0887" tvg-logo="https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG.png" group-title="Documentari",Tv Viaggi
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63c923944207be0007fd0887/master.m3u8?deviceId=0&deviceModel=web&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=0&deviceDNT=true
-#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668458" tvg-name="TGR Basilicata" , TGR Basilicata
-https://daddylivehd.sx/embed/stream-870.php
+#EXTINF:-1 tvg-logo="https://skygo.sky.it/etc/designs/skygo/img/sky-go-app-1024-px-rgb@2x.png" group-title="Sky Italia", F1
+https://webudit.cdnhks.lol/lb/premium577/index.m3u8
+#EXTINF:-1 tvg-logo="https://skygo.sky.it/etc/designs/skygo/img/sky-go-app-1024-px-rgb@2x.png" group-title="Sky Italia", Moto GP
+https://webudit.cdnhks.lol/lb/premium575/index.m3u8
 
