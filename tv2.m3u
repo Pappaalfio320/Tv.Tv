@@ -14,8 +14,6 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i1)/index
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-7.png" group-title="Tv Italia", La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1074677376217427968/C9GfHiLI.jpg" group-title="Tv Italia", Tv8
-https://freechannels.worldtvlive.eu/api/v1/channels/Sky/tv8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1074677376217427968/C9GfHiLI.jpg" group-title="Tv Italia", Tv8
 https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Rai_4_HD_Logo.png" group-title="Canali Rai", Rai 4
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7
@@ -52,33 +50,33 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lt)/index
 #EXTINF:-1 tvg-logo="https://www.01smartlife.it/wp-content/uploads/sites/41/2022/01/mediaset-27-696x430.jpg" group-title="Mediaset", TwentySeven
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ts)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/NOVE_logo.png" group-title="Discovery", Nove 
-https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/Nove
+https://dplus-sport-live.akamai.prod-live.h264.io/primary/2/3a38489cd11541bc877403517f256a6d/hdntl=exp=1688294778~acl=/primary/2/3a38489cd11541bc877403517f256a6d/*~data=hdntl~hmac=e7660cac3d87514b5a357cbabbbc1844d4548c37f28d7e59f1f2751d47ceed97/index.m3u8?aws.manifestfilter=video_dynamic_range:sdr;audio_codec:AACL;video_codec:h264;video_height:1-1080&hdnts=exp=1688294778~acl=/primary/2/3a38489cd11541bc877403517f256a6d/index.m3u8%3Faws.manifestfilter%3Dvideo_dynamic_range%3Asdr%3Baudio_codec%3AAACL%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080*~hmac=8886be9b8317459caf1acd76c97bdad86ce6b9ca405c9a13d695b6db600b9914
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/real-time-hd.png" group-title="Discovery", Real Time 
-https://dplus-eu-cloudfront.prod-live.h264.io/primary/2/3a1ed0c28e2242a094409675f456f822/x-discovery-token=Expires=1688289004&KeyName=primary&Signature=B-is56wxabZ99cF9MKN5sNZLSfg/index.m3u8?aws.manifestfilter=audio_codec:AACL;video_codec:h264;video_height:1-1080;video_dynamic_range:sdr&hdnts=exp=1688289004~acl=/primary/2/3a1ed0c28e2242a094409675f456f822/index.m3u8%3Faws.manifestfilter%3Daudio_codec%3AAACL%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080%3Bvideo_dynamic_range%3Asdr*~hmac=8e9997ac062d7a7f5783bd843d62b18eace92ac09da73312744cd7753176f466
+https://dplus-eu-cloudfront.prod-live.h264.io/primary/2/3a1ed0c28e2242a094409675f456f822/x-discovery-token=Expires=1688296208&KeyName=primary&Signature=vU6Di8NOqrAm4-sZ6_cnvtNfP3s/index.m3u8?aws.manifestfilter=video_codec:h264;video_height:1-1080;video_dynamic_range:sdr;audio_codec:AACL&hdnts=exp=1688296208~acl=/primary/2/3a1ed0c28e2242a094409675f456f822/index.m3u8%3Faws.manifestfilter%3Dvideo_codec%3Ah264%3Bvideo_height%3A1-1080%3Bvideo_dynamic_range%3Asdr%3Baudio_codec%3AAACL*~hmac=cc44d7b8d7db06906f9b07d6da263828d75ffc7caee011aed352c011faef51d0
+
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Discovery", Dmax
-https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/DMAX
+https://dplus-eu-cloudfront.prod-live.h264.io/primary/2/aeed09ba43fa46ffbbf5ee6bccd2fe78/x-discovery-token=Expires=1688294668&KeyName=primary&Signature=UN90tyD-DBjB4DBUQ3Ti7MNRML4/index.m3u8?aws.manifestfilter=video_codec:h264;video_height:1-1080;video_dynamic_range:sdr;audio_codec:AACL&hdnts=exp=1688294668~acl=/primary/2/aeed09ba43fa46ffbbf5ee6bccd2fe78/index.m3u8%3Faws.manifestfilter%3Dvideo_codec%3Ah264%3Bvideo_height%3A1-1080%3Bvideo_dynamic_range%3Asdr%3Baudio_codec%3AAACL*~hmac=4c3b1a16074c4f8b86266019ec826ea119bf156dc6f32e1d2e2be9df27472486
+
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/food-network-hd.png" group-title="Discovery", Food Network 
-https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/Food%20Network
+https://dplus-eu-cloudfront.prod-live.h264.io/primary/2/b75cc0ec49e64ca59f04c5d311994341/x-discovery-token=Expires=1688294742&KeyName=primary&Signature=QuwVzeVb4l3pFDRFWacONHSMSKA/index.m3u8?aws.manifestfilter=video_height:1-1080;video_dynamic_range:sdr;audio_codec:AACL;video_codec:h264&hdnts=exp=1688294742~acl=/primary/2/b75cc0ec49e64ca59f04c5d311994341/index.m3u8%3Faws.manifestfilter%3Dvideo_height%3A1-1080%3Bvideo_dynamic_range%3Asdr%3Baudio_codec%3AAACL%3Bvideo_codec%3Ah264*~hmac=cca62d8afd566a635f3e251676f8012cfe860fba5413801d716d1afb9203a300
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/giallo.png" group-title="Discovery", Giallo
-https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/Giallo
+https://dplus-eu-cloudfront.prod-live.h264.io/primary/1/a6d9c4d3bc7e49ba8fe306290dd75fe9/x-discovery-token=Expires=1688294724&KeyName=primary&Signature=Iae7iZ3-a2g0Ch1WLYqPTb2i48c/index.m3u8?aws.manifestfilter=video_height:1-1080;video_dynamic_range:sdr;audio_codec:AACL;video_codec:h264&hdnts=exp=1688294724~acl=/primary/1/a6d9c4d3bc7e49ba8fe306290dd75fe9/index.m3u8%3Faws.manifestfilter%3Dvideo_height%3A1-1080%3Bvideo_dynamic_range%3Asdr%3Baudio_codec%3AAACL%3Bvideo_codec%3Ah264*~hmac=037feb9983c620967a49aff2d76ec57f1fb4649359191b6582530af2a325ed2d
+
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/motor-trend_476x249.jpg" group-title="Discovery", Motor Trend
-https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/MotorTrend
+https://dplus-sport-live.akamai.prod-live.h264.io/primary/2/9c2588abb8a4499190a0a5a324f5da53/hdntl=exp=1688294747~acl=/primary/2/9c2588abb8a4499190a0a5a324f5da53/*~data=hdntl~hmac=e911cec67ac3e7b0c6d976c889dac20c82760e78a6cfcfac85e3e6324ac20939/index.m3u8?aws.manifestfilter=audio_codec:AACL;video_codec:h264;video_height:1-1080;video_dynamic_range:sdr&hdnts=exp=1688294747~acl=/primary/2/9c2588abb8a4499190a0a5a324f5da53/index.m3u8%3Faws.manifestfilter%3Daudio_codec%3AAACL%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080%3Bvideo_dynamic_range%3Asdr*~hmac=b35d30abdee0fd9a3d36f9bbd5dbe3f036a1a2245ef9c7e84c226ae283a15d6d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/2560px-HGTV_Logo.svg.png" group-title="Discovery", Hgtv
-https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/HGTV
+https://dplus-sport-live.akamai.prod-live.h264.io/primary/1/edb69a8df8bb44cda751e71832611835/hdntl=exp=1688294834~acl=/primary/1/edb69a8df8bb44cda751e71832611835/*~data=hdntl~hmac=e3e8c677e4e72dd1a5b18ccdb7575f249511970c79cb0d7eb3500f843f75e62d/index.m3u8?aws.manifestfilter=video_codec:h264;video_height:1-1080;video_dynamic_range:sdr;audio_codec:AACL&hdnts=exp=1688294834~acl=/primary/1/edb69a8df8bb44cda751e71832611835/index.m3u8%3Faws.manifestfilter%3Dvideo_codec%3Ah264%3Bvideo_height%3A1-1080%3Bvideo_dynamic_range%3Asdr%3Baudio_codec%3AAACL*~hmac=09c9f5964a4a22296a2164686a3fcada400750d8d2c09ff863cca5e41d53d425
 #EXTINF:-1 tvg-name="Warner TV" tvg-id="WarnerTV.it" tvg-logo="" tvg-chno="37" group-title="Discovery",Warner TV
-https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/Warner TV
+https://dplus-sport-live.akamai.prod-live.h264.io/primary/3/ce9722edf91a4f7a847736461ed026dd/hdntl=exp=1688294729~acl=/primary/3/ce9722edf91a4f7a847736461ed026dd/*~data=hdntl~hmac=ca65fd68fd1f8274ed2cd8d652ce51bd974b5f832c743bbe591164851b39102f/index.m3u8?aws.manifestfilter=video_codec:h264;video_height:1-1080;video_dynamic_range:sdr;audio_codec:AACL&hdnts=exp=1688294729~acl=/primary/3/ce9722edf91a4f7a847736461ed026dd/index.m3u8%3Faws.manifestfilter%3Dvideo_codec%3Ah264%3Bvideo_height%3A1-1080%3Bvideo_dynamic_range%3Asdr%3Baudio_codec%3AAACL*~hmac=1e602b21d7c494b4fbca2258946b18eb7d2e2881b0cd2503f0f2428d9730d6e5
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/k2-cover.jpg" group-title="Discovery", K2
-https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/K2
+https://dplus-sport-live.akamai.prod-live.h264.io/primary/2/2ce6f1081c0e4b83ab12e5e68834e25d/hdntl=exp=1688294892~acl=/primary/2/2ce6f1081c0e4b83ab12e5e68834e25d/*~data=hdntl~hmac=f6d13d0b6d40ac0828fcbe94bcaa444700a9f1541371294340df5d718ae14e27/index.m3u8?aws.manifestfilter=video_height:1-1080;video_dynamic_range:sdr;audio_codec:AACL;video_codec:h264&hdnts=exp=1688294892~acl=/primary/2/2ce6f1081c0e4b83ab12e5e68834e25d/index.m3u8%3Faws.manifestfilter%3Dvideo_height%3A1-1080%3Bvideo_dynamic_range%3Asdr%3Baudio_codec%3AAACL%3Bvideo_codec%3Ah264*~hmac=89f61eae9ad1f8c970213a6d0c3582c1c99648b2134d90a75fe4c562ee906988
+
 #EXTINF:-1 tvg-logo="https://www.tvdream.net/img/frisbee-cover.jpg" group-title="Discovery", Frisbee
-https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/Frisbee
+https://dplus-sport-live.akamai.prod-live.h264.io/primary/2/fcf4aaf8360249da9f2c4326f42ee27e/hdntl=exp=1688295025~acl=/primary/2/fcf4aaf8360249da9f2c4326f42ee27e/*~data=hdntl~hmac=dd38e3c916600db91c6dfb8b544f589704b5dc3f0d4cc607802eca7709f731d0/index.m3u8?aws.manifestfilter=audio_codec:AACL;video_codec:h264;video_height:1-1080;video_dynamic_range:sdr&hdnts=exp=1688295025~acl=/primary/2/fcf4aaf8360249da9f2c4326f42ee27e/index.m3u8%3Faws.manifestfilter%3Daudio_codec%3AAACL%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080%3Bvideo_dynamic_range%3Asdr*~hmac=c6643ce4ddd5da78bd304a6466e6ae01c16b7d33cfbe691ef1368900a10d9f57
 #EXTINF:-1 tvg-name="Cielo" tvg-id="Cielo.it" tvg-logo="" tvg-chno="26" group-title="Sky", Cielo (instabile)
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1639498341~exp=1702463400~acl=/*~hmac=c3c4c2de19ff0df4b4bb20587ce59af5232eadab2995f445b7506525413805dd
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7d.png" group-title="Tv Italia", La7 D
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/gm-24.JPG" group-title="Tv Italia", GM24
-https://streaming.softwarecreation.it/GM24/GM24/.m3u8
-#EXTINF:-1 tvg-logo="https://www.uominiedonnecomunicazione.com/wp-content/uploads/2018/06/QVC-Italia.jpg" group-title="Tv Italia", Qvc Tv
-https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/2/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele2000.png" group-title="Tv Italia", Tv2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Svizzeri", Rsi La1 
@@ -288,7 +286,7 @@ https://rakuten-thriller-6-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/a292cc0c-fcf8-4188-a09a-f00b8e5fa724-film-top-rakuten-tv-1646658085.png" group-title="Rakuten", Film Top - Rakuten TV
 https://c83ae24ef628411296c57c63dc20f827.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_TopFree/playlist.m3u8?ads.content_classification=14&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=it&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2906&ads.rtv_content_language=ita&ads.rtvid=271861&ads.streaming_id=4387d77a-3b6a-4ea9-ae65-7faebbb01098&ads.user_type=visitor&ads.wurl_channel=834
 #EXTINF:-1 tvg-logo="https://static.fanpage.it/wp-content/uploads/sites/16/2020/02/rakuten-1200x675.jpg" group-title="Rakuten", Documentari - Rakuten TV
-https://rakuten-documentaries-6-eu.rakuten.wurl.tv/3000.m3u8
+https://rakuten-spotlight-6-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/bbc-drama.png" group-title="Samsung Tv", BBC Drama 
 https://4965d0c5c25f4eba990ba5e97b677215.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-it_BBCDrama/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/50/ITBA3300024IU_20201118T003353.png" group-title="Samsung Tv", Bizzarro Movies
@@ -923,7 +921,7 @@ https://videosolutions-wedobigstories-rakuten.amagi.tv/playlist1080p.m3u8
 https://amg02512-nexodigital-amg02512c1-samsung-it-422.playouts.now.amagi.tv/playlist/amg02512-nexodigital-houseofdocs-samsungit/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-ITBC4700003GR" tvg-id="ITBC4700003GR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC4700003GR_20230412T042555SQUARE.png_20230412042556.png" group-title="Documentari",Love the Planet
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetitsamsung-samsungit/playlist.m3u8
-#EXTINF:-1 channel-id="samsung-ITAJ4500021M7" tvg-id="ITAJ4500021M7" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/f4669a1f-946b-418d-8431-d09d6cd261f4" group-title="Documentari",Documentari
+#EXTINF:-1 tvg-logo="https://static.fanpage.it/wp-content/uploads/sites/16/2020/02/rakuten-1200x675.jpg" group-title="Rakuten", Documentari - Rakuten TV
 https://rakuten-spotlight-6-eu.rakuten.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-name="Big Name" tvg-id="" tvg-logo="" group-title="Documentari",Big Name
 https://alchimie-big-name-rakuten.amagi.tv/playlist1080_p.m3u8
@@ -933,7 +931,18 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63c923944207be0007fd08
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668458
 
 
+ 
+ 
+ 
 
 
 
 
+
+
+
+
+
+
+
+88
