@@ -44,7 +44,7 @@ plugin://plugin.video.wltvhelper/play/discovery/Real Time
 #EXTINF:-1 tvg-id="qvcitalia" tvg-logo="" tvg-name="QVC" tvg-chno="32" group-title="Moda/Shopping",QVC
 https://tvchannels.worldtvlive.eu/tv/_dtt_kodi/live?channel=qvcitalia&group=Moda__Shopping
 #EXTINF:-1 tvg-id="foodnetwork" tvg-logo="" tvg-name="Food Network" tvg-chno="33" group-title="Intrattenimento",Food Network
-plugin://plugin.video.wltvhelper/play/discovery/Food Network
+{"name":"Play Stream","author":"El Supremo","stations":[{"name":"Play Stream","image":"https:\/\/cdn3d.iconscout.com\/3d\/premium\/thumb\/play-button-6455601-5326988.png","url":"https:\/\/dplus-eu-cloudfront.prod-live.h264.io\/primary\/2\/aeed09ba43fa46ffbbf5ee6bccd2fe78\/x-discovery-token=Expires=1688632013&KeyName=primary&Signature=J_7wPByl3r7seMz7M7yRYey25BU\/index.m3u8?aws.manifestfilter=video_codec:h264;video_height:1-1080;video_dynamic_range:sdr;audio_codec:AACL&hdnts=exp=1688632013~acl=\/primary\/2\/aeed09ba43fa46ffbbf5ee6bccd2fe78\/index.m3u8%3Faws.manifestfilter%3Dvideo_codec%3Ah264%3Bvideo_height%3A1-1080%3Bvideo_dynamic_range%3Asdr%3Baudio_codec%3AAACL*~hmac=41d3c2bd820e71a5c683bac8e9a000304a3653cc9253554d6fa6edbf8a4e0be1"}]}
 #EXTINF:-1 tvg-id="cine34" tvg-logo="" tvg-name="Cine 34" tvg-chno="34" group-title="Movie/Fiction",Cine 34
 plugin://plugin.video.wltvhelper/play/mediaset/$B6
 #EXTINF:-1 tvg-id="focus" tvg-logo="" tvg-name="Focus" tvg-chno="35" group-title="Doc/Cultura",Focus
