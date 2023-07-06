@@ -53,6 +53,8 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ts)/index
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/NOVE_logo.png" group-title="Discovery", Nove 
 https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/Nove
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/real-time-hd.png" group-title="Discovery", Real Time 
+https://dplus-eu-cloudfront.prod-live.h264.io/primary/2/aeed09ba43fa46ffbbf5ee6bccd2fe78/x-discovery-token=Expires=1688294668
+
 {"name":"Play Stream","author":"El Supremo","stations":[{"name":"Play Stream","image":"https:\/\/cdn3d.iconscout.com\/3d\/premium\/thumb\/play-button-6455601-5326988.png","url":"https:\/\/dplus-eu-cloudfront.prod-live.h264.io\/primary\/2\/aeed09ba43fa46ffbbf5ee6bccd2fe78\/x-discovery-token=Expires=1688632013&KeyName=primary&Signature=J_7wPByl3r7seMz7M7yRYey25BU\/index.m3u8?aws.manifestfilter=video_codec:h264;video_height:1-1080;video_dynamic_range:sdr;audio_codec:AACL&hdnts=exp=1688632013~acl=\/primary\/2\/aeed09ba43fa46ffbbf5ee6bccd2fe78\/index.m3u8%3Faws.manifestfilter%3Dvideo_codec%3Ah264%3Bvideo_height%3A1-1080%3Bvideo_dynamic_range%3Asdr%3Baudio_codec%3AAACL*~hmac=41d3c2bd820e71a5c683bac8e9a000304a3653cc9253554d6fa6edbf8a4e0be1"}]}
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Discovery", Dmax
 https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/DMAX
