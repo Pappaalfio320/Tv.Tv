@@ -59,7 +59,7 @@ https://dplus-eu-cloudfront.prod-live.h264.io/primary/2/aeed09ba43fa46ffbbf5ee6b
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Discovery", Dmax
 https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/DMAX
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/food-network-hd.png" group-title="Discovery", Food Network 
-https://dplus-it.media-edge.prod-vod.h264.io/dc47e165-617d-4337-8914-74940ff49619/hls_clear_ts/edge-cache-token=Expires=1688856118&KeyName=media-edge-key-prod-eu-661a302&Signature=I6qtvdBDv9PakOartd2HGJFnw-4YiXn5AMJqaW9qwC1wOXraGd4Ah7hjZMS8nG_R7ZsYu7XvWZ6usnR8T6GcCg/master.m3u8?mfs=GgoKCBICEAEaAhAB
+https://dplus-it.media-edge.prod-vod.h264.io/dc47e165-617d-4337-8914-74940ff49619/hls_clear_ts/edge-cache-token=Expires=1688856118&KeyName=media-edge-key-prod-eu-661a302&Signature=I6qtvdBDv9PakOartd2HGJFnw-4YiXn5AMJqaW9qwC1wOXraGd4Ah7hjZMS8nG_R7ZsYu7XvWZ6usnR8T6GcCg/master.m3u8?mfs=GgoKCBICEAEaAhABq
 
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/giallo.png" group-title="Discovery", Giallo
 https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/Giallo
