@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg-guide.com/wltv.gz,https://i.mjh.nz/SamsungTVPlus/it.xml.gz,https://i.mjh.nz/PlutoTV/it.xml.gz" 
+#EXTM3U x-tvg-url="http://epg-guide.com/wltv.gz,https://i.mjh.nz/SamsungTVPlus/it.xml.gz,https://i.mjh.nz/PlutoTV/it.xml.gz"
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-1-prtwes3x26ld.png" group-title="Canali Rai", Rai 1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rai-2-bobi5do2jjqa.png" group-title="Canali Rai", Rai 2 
@@ -13,6 +13,8 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(c5)/index
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(i1)/index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-7.png" group-title="Tv Italia", La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1074677376217427968/C9GfHiLI.jpg" group-title="Tv Italia", Tv8
+https://freechannels.worldtvlive.eu/api/v1/channels/Sky/tv8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1074677376217427968/C9GfHiLI.jpg" group-title="Tv Italia", Tv8
 https://www.mytivu.it/Application/Channels/TV8.php
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Rai_4_HD_Logo.png" group-title="Canali Rai", Rai 4
@@ -49,15 +51,34 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kq)/index
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.01smartlife.it/wp-content/uploads/sites/41/2022/01/mediaset-27-696x430.jpg" group-title="Mediaset", TwentySeven
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(ts)/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/NOVE_logo.png" group-title="Discovery", Nove 
+https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/Nove
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/real-time-hd.png" group-title="Discovery", Real Time 
+https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/Real%20Time
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="Discovery", Dmax
+https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/DMAX
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/food-network-hd.png" group-title="Discovery", Food Network 
+https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/Food%20Network
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/giallo.png" group-title="Discovery", Giallo
+https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/Giallo
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/img/motor-trend_476x249.jpg" group-title="Discovery", Motor Trend
+https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/MotorTrend
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/2560px-HGTV_Logo.svg.png" group-title="Discovery", Hgtv
+https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/HGTV
+#EXTINF:-1 tvg-name="Warner TV" tvg-id="WarnerTV.it" tvg-logo="" tvg-chno="37" group-title="Discovery",Warner TV
+https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/Warner TV
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/img/k2-cover.jpg" group-title="Discovery", K2
+https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/K2
+#EXTINF:-1 tvg-logo="https://www.tvdream.net/img/frisbee-cover.jpg" group-title="Discovery", Frisbee
+https://freechannels.worldtvlive.eu/api/v1/channels/Discovery/Frisbee
 #EXTINF:-1 tvg-name="Cielo" tvg-id="Cielo.it" tvg-logo="" tvg-chno="26" group-title="Sky", Cielo (instabile)
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1639498341~exp=1702463400~acl=/*~hmac=c3c4c2de19ff0df4b4bb20587ce59af5232eadab2995f445b7506525413805dd
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la7d.png" group-title="Tv Italia", La7 D
 https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live_1280x720_.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-italia.jpg" group-title="Altri Canali Nazionali",Canale Italia
-https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net//ac115_live/canale1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-padre-pio-hd.png" group-title="Altri Canali Nazionali",Tele Padre Pio HD
-https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/gm-24.JPG" group-title="Tv Italia", GM24
+https://streaming.softwarecreation.it/GM24/GM24/.m3u8
+#EXTINF:-1 tvg-logo="https://www.uominiedonnecomunicazione.com/wp-content/uploads/2018/06/QVC-Italia.jpg" group-title="Tv Italia", Qvc Tv
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/2/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele2000.png" group-title="Tv Italia", Tv2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rsi-la1.png" group-title="Svizzeri", Rsi La1 
@@ -637,16 +658,257 @@ https://ice09.fluidstream.net/906_dance_it.aac?FLID=1&type=.aac
 https://ice09.fluidstream.net/906_hit9020.aac?FLID=1&type=.aac
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/j6by3cev9rkb.png" group-title="Radio Web/Fm", Jolly Fm
 http://nr4.newradio.it:9422/;?1571411143501
-
+#EXTINF:-1 tvg-logo="https://ddlstreamitaly.co/uploads/monthly_2023_01/loc.thumb.jpg.11f1422cad17dd3e07c37cfa616940f1.jpg" group-title="Primafila", Siccità (2022)
+https://data2ddl.ichigotv.net/Film/Siccit%C3%A0%20[m1080p]%20(2022).mp4
+#EXTINF:-1 tvg-logo="https://ddlstreamitaly.co/uploads/monthly_2023_01/loc.thumb.jpg.d94fe1116bbf55bc34cc4ed2909d7ad1.jpg" group-title="Primafila", Quando Hitler rubò il coniglio rosa (2022)
+https://data2ddl.ichigotv.net/Film/Quando%20Hitler%20rub%C3%B2%20il%20coniglio%20rosa%20[m1080p]%20(2019).mp4
+#EXTINF:-1 tvg-logo="https://ddlstreamitaly.co/uploads/monthly_2023_01/loc.thumb.jpg.aa604543fed30760dfbcf3756c712022.jpg" group-title="Primafila", Lamborghini (2022)
+https://data2ddl.ichigotv.net/Film/Lamborghini%20-%20The%20Man%20Behind%20the%20Legend%20[m1080p]%20(2022).mp4
+#EXTINF:-1 tvg-logo="https://ddlstreamitaly.co/uploads/monthly_2023_01/loc.thumb.jpg.980658c36018a4d152942159a40739d9.jpg" group-title="Primafila", Kimi (2022)
+https://data2ddl.ichigotv.net/Film/Kimi%20[m1080p]%20(2022).mp4
+#EXTINF:-1 tvg-logo="https://ddlstreamitaly.co/uploads/monthly_2023_01/loc.thumb.jpg.7a09e80f71e28f7291ba3b0039ceee70.jpg" group-title="Primafila", Father of the bride (2022)
+https://data2ddl.ichigotv.net/Film/Father%20of%20the%20Bride%20[m1080p]%20(2022).mp4
+#EXTINF:-1 tvg-logo="https://ddlstreamitaly.co/uploads/monthly_2023_01/loc.thumb.jpg.b4caad0581de87b2665b4d94b8ab1288.jpg" group-title="Primafila", Last survivors (2022)
+https://data2ddl.ichigotv.net/Film/Last%20Survivors%20[m1080p]%20(2022).mp4
+#EXTINF:-1 tvg-logo="https://ddlstreamitaly.co/uploads/monthly_2023_01/locc.thumb.jpg.b7a7c2d288460031193b2eb7fcb5fdb4.jpg" group-title="Primafila", Wrong place (2022)
+https://data2ddl.ichigotv.net/Film/Wrong%20Place%20[m1080p]%20(2022).mp4
+#EXTINF:-1 tvg-logo="https://ddlstreamitaly.co/uploads/monthly_2023_01/loc.thumb.jpg.7816b0b21dc57cd869c5b596cb7b6125.jpg" group-title="Primafila", Il miniaturista (2017) ep.1 di 3
+https://data2ddl.ichigotv.net/SerieTv/Il%20miniaturista/1/1.mp4
+#EXTINF:-1 tvg-logo="https://ddlstreamitaly.co/uploads/monthly_2023_01/loc.thumb.jpg.7816b0b21dc57cd869c5b596cb7b6125.jpg" group-title="Primafila", Il miniaturista (2017) ep.2 di 3
+https://data2ddl.ichigotv.net/SerieTv/Il%20miniaturista/1/2.mp4
+#EXTINF:-1 tvg-logo="https://ddlstreamitaly.co/uploads/monthly_2023_01/loc.thumb.jpg.7816b0b21dc57cd869c5b596cb7b6125.jpg" group-title="Primafila", Il miniaturista (2017) ep.3 di 3
+https://data2ddl.ichigotv.net/SerieTv/Il%20miniaturista/1/3.mp4
+#EXTINF:-1 tvg-logo="https://media-assets.wired.it/photos/63ac502616c8036456df94fc/master/w_1600%2Cc_limit/wash-me-in-the-river.jpeg" group-title="Primafila", Wash me in the river (2022)
+https://data2ddl.ichigotv.net/Film/Wash_me_in_the_River_HD_2022_Bluray_1080p.mp4
+#EXTINF:-1 tvg-logo="https://ddlstreamitaly.co/uploads/monthly_2023_01/loc.thumb.jpg.f1ee7b51b0cb97fc8a1fc2d6d6c798ba.jpg" group-title="Primafila", Men (2022)
+https://data2ddl.ichigotv.net/Film/Men [m1080p] (2022).mp4
+#EXTINF:-1 tvg-logo="https://ddlstreamitaly.co/uploads/monthly_2022_12/loc.thumb.jpg.bcd3f1921c3372b5b1b2aae75da02992.jpg" group-title="Primafila", Tre uomini e  un fantasma (2022)
+https://data2ddl.ichigotv.net/Film/Tre%20uomini%20e%20un%20fantasma%20[m1080p]%20(2022).mp4
+#EXTINF:-1 tvg-logo="https://ddlstreamitaly.co/uploads/monthly_2023_01/loc1.thumb.jpg.3b62aa606ecc1cfb1c99d99eb8236423.jpg" group-title="Primafila", I delitti di West Point (2022)
+https://data2ddl.ichigotv.net/Film/The Pale Blue Eye - I delitti di West Point [m1080p] (2022).mp4
+#EXTINF:-1 tvg-logo="https://ddlstreamitaly.co/uploads/monthly_2022_12/loc.thumb.jpg.01b33f41e674f86a8138237eab79bc2e.jpg" group-title="Primafila", Black Adam (2022)
+https://data2ddl.ichigotv.net/Film/Black Adam [m1080p] (2022).mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2021/09/070/locandina.jpg" group-title="Primafila", The hanging sun (2022)
+https://u.teknik.io/ZLyX1.mp4
+#EXTINF:-1 tvg-logo="https://ddlstreamitaly.co/uploads/monthly_2022_12/loc.thumb.jpg.3057604543576865245f08e7624cd68e.jpg" group-title="Primafila", Amsterdam (2022)
+https://data2ddl.ichigotv.net/Film/Amsterdam%20[m1080p]%20(2022).mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2022/10/253/locandina.jpg" group-title="Primafila", La legge dei più grandi (2022)
+https://data2ddl.ichigotv.net/Film/Diario di una schiappa - La legge dei più grandi [m1080p] (2022).mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2022/12/019/imm.jpg" group-title="Primafila", Una notte al museo la vendetta di Kahmunrah (2022)
+https://u.teknik.io/vx0fr.mp4
+#EXTINF:-1 tvg-logo="https://www.taxidrivers.it/wp-content/uploads/2022/10/KA-My-Name-Is-Vendetta_Social4.5_sRGB_IT.jpg" group-title="Primafila", My name is vendetta (2022)
+https://u.teknik.io/Ogddb.mp4
+#EXTINF:-1 tvg-logo="https://mr.comingsoon.it/imgdb/locandine/big/62103.jpg" group-title="Primafila", Il talento di mr Crocodile (2022)
+https://u.teknik.io/YsGqi.mp4
+#EXTINF:-1 tvg-logo="https://citynews-today.stgy.ovh/~media/original-mid/30567910506017/il-poster-di-falla-girare.jpg" group-title="Primafila", Falla girare (2022)
+https://data2ddl.ichigotv.net/Film/Falla%20girare%20-%20The%20last%20joint%20[m1080p]%20(2022).mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2022/06/179/locandina.jpg" group-title="Primafila", Smile (2022)
+https://data2ddl.ichigotv.net/Film/Smile [m1080p] (2022).mp4
+#EXTINF:-1 tvg-logo="https://cdn.chili.com/images/public/cms/ec/10/c5/2b/ec10c52b-d730-417e-ab55-8ac20dbdada2.jpg?width=800" group-title="Primafila", Cuori strappati (2022)
+https://u.teknik.io/E0b9j.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2022/10/093/locandina.jpg" group-title="Primafila", On the line (2022)
+https://u.teknik.io/iC4py.mp4
+#EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R202105/p1-14.jpg" group-title="Primafila", Plan B (2021)
+https://u.teknik.io/FdaHR.mp4
+#EXTINF:-1 tvg-logo="https://movieplayer.net-cdn.it/t/images/2022/11/08/calciatori-contro-mutanti-2_jpg_400x0_crop_q85.jpg" group-title="Primafila", Calciatori contro mutanti (2022)
+https://u.teknik.io/pzSja.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2022/01/145/locandinapg1.jpg" group-title="Primafila", A sexy horror story (2022)
+https://u.teknik.io/0kaNo.mp4
+#EXTINF:-1 tvg-logo="https://i0.wp.com/cb1.online/wp-content/uploads/2022/10/idT5mnqPcJgSkvpDX7pJffBzdVH.jpg" group-title="Primafila", Barbarian (2022)
+https://u.teknik.io/jDSQc.mp4
+#EXTINF:-1 tvg-logo="https://movieplayer.net-cdn.it/t/images/2021/11/22/shattered_jpg_320x0_crop_q85.jpg" group-title="Primafila", Shattered L'inganno (2022)
+https://u.teknik.io/6eFFB.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2021/05/019/locandina.jpg" group-title="Primafila", Mistero a S.Tropez (2022)
+https://data2ddl.ichigotv.net/Film/Mistero%20a%20Saint-Tropez%20[m1080p]%20(2021).mp4
+#EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R202207/ftv45-62c0382bbdadf-thumbnail-2000px3.jpg" group-title="Primafila", The invitation (2022)
+https://u.teknik.io/Ht1D0.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2022/03/091/locandinapg1.jpg" group-title="Primafila", Pinocchio (2022)
+https://u.teknik.io/ov5qv.mp4
+#EXTINF:-1 tvg-logo="https://movieplayer.net-cdn.it/t/images/2022/09/02/end-of-the-road_jpg_400x0_crop_q85.jpg" group-title="Primafila", End of the road  (2022)
+https://u.teknik.io/rw4Fm.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2021/12/003/locandina.jpg" group-title="Primafila", Gli idoli delle donne (2022)
+https://u.teknik.io/TSNnn.mp4
+#EXTINF:-1 tvg-logo="https://movieplayer.net-cdn.it/images/2022/07/12/samaritan.jpg" group-title="Primafila", Samaritan (2022)
+https://u.teknik.io/c2w22.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2021/06/170/locandina.jpg" group-title="Primafila", Altrimenti ci arrabbiamo (2022)
+https://u.teknik.io/Axeik.mp4
+#EXTINF:-1 tvg-logo="https://movieplayer.net-cdn.it/t/images/2022/03/29/top-gun-maverick_uqQEGUU_jpg_1100x0_crop_q85.jpg" group-title="Primafila", Top Gun (2022)
+https://u.teknik.io/T4oUN.mp4
+#EXTINF:-1 tvg-logo="https://cdn.chili.com/images/public/cms/3f/07/e2/1e/3f07e21e-20e4-42e9-8868-b5df8a64020c.jpg?width=422" group-title="Primafila", 1943 Il filo della libertà (2022)
+https://u.teknik.io/Pb8Sy.mp4
+#EXTINF:-1 tvg-logo="https://mr.comingsoon.it/imgdb/locandine/big/61898.jpg" group-title="Primafila", Masquerade (2022)
+https://u.teknik.io/hwtOt.mp4
+#EXTINF:-1 tvg-logo="https://movieplayer.net-cdn.it/t/images/2022/06/08/prey-poster_jpg_320x0_crop_q85.jpg" group-title="Primafila", Prey (2022)
+https://u.teknik.io/XQ1l2.mp4
+#EXTINF:-1 tvg-logo="https://sm.ign.com/ign_it/movie/d/day-shift/day-shift_zjm7.jpg" group-title="Primafila", A caccia di vampiri (2022)
+https://u.teknik.io/hwtOt.mp4
+#EXTINF:-1 tvg-logo="https://media.webmagazine24.it/wp-content/uploads/2022/04/17233654/Il-sesso-degli-angeli-streaming.jpg" group-title="Primafila", Il sesso degli angeli (2022)
+https://u.teknik.io/tOTil.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/cinemanews/2021/178119/locandina-ver.jpg" group-title="Primafila", Il buco (2021)
+https://u.teknik.io/onWof.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2019/12/132/locandina.jpg" group-title="Primafila", Possessor (2022)
+https://u.teknik.io/ipGdU.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2014/06/108/locandina.jpg" group-title="RaiPlay", Confusi e felici 2014
+http://creativemedia9-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/15315661_2400.mp4
+#EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R202107/Privorot_Chernoe_venchanie-322915020-large.jpg" group-title="RaiPlay", Dark spell 2021
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/qq1OF69hssSlashKfqJgAKzpPpPlussKgpPpPlussweeqqEEqualeeqqEEqual_1800.mp4
+#EXTINF:-1 tvg-logo="https://resources5.eaglepictures.com/image/1/400/600/5f2bd67279f37/inheritance-eredita-cover.jpg" group-title="RaiPlay", Inheritance 2020
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/14507462_1800.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2019/07/015/locandina.jpg" group-title="RaiPlay", Cena con delitto 2019
+http://creativemedia9-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/EUTSDdRXS5BNz1bCpPpPlussI9DKAeeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2021/01/142/locandina.jpg" group-title="RaiPlay", Addio al nubilato 2021
+http://creativemedia9-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/9VssSlasheOBiRpfJ1k8YN5lzRMAeeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2020/03/074/locandina.jpg" group-title="RaiPlay", Divorzio a Las Vegas 2020
+http://creativemedia9-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/7L0w129ZSwfDaFegLFz7TweeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2019/04/369/locandina.jpg" group-title="RaiPlay", Burraco fatale 2019
+http://creativemedia9-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/ozaKHW2Owu8WOzKqqgKEggeeqqEEqualeeqqEEqual_1800.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2021/05/242/locandina.jpg" group-title="RaiPlay", School of mafia 2022
+http://creativemedia9-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/GgEhdQtmCr7M31d8pPpPlussjcGUweeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2013/12/072/locandina.jpg" group-title="RaiPlay", Un matrimonio da favola 2014
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/12518867_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2018/02/130/locandina.jpg" group-title="RaiPlay", Genitori quasi perfetti 2019
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/15358563_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2019/11/094/locandina.jpg", Il grande passo 2019
+http://creativemedia9-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/9WBQtM3aFiwKpG9aYuXFssSlashAeeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://www.cgentertainment.it/img/film/21019/LOC1_21019.jpg" group-title="RaiPlay", La sai l'ultima sui matti 1982
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/kCkwltwB7r4U1LvKvKmnTweeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2019/10/054/locandina.jpg" group-title="RaiPlay", Una intima convinzione 2019
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/yycc2tXqA07Ae1HgusqaCQeeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://www.questaseratv.it/img/programmi/rai_movie/80815_big.jpg" group-title="RaiPlay", Burying the ex 2017
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/evy161rImgylXCon0us3iQeeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2016/10/159/locandina.jpg" group-title="RaiPlay", Jesus rolls 2019
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/OssSlashHpPpPlussOufpPpPlussOMfxCMuvKDseSgeeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://api.superguidatv.it/v1/Pluto movies USA/1096132306/cover?width=240" group-title="RaiPlay", La nuora ideale 2020
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/I0qRDd2bbipPpPlusssIYnt6BCZgQeeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2017/12/018/locandinapg4.jpg" group-title="RaiPlay", Captive state 2019
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/15504425_1800.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2016/04/056/locandina.jpg" group-title="RaiPlay", Falchi 2017
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/10646983_2400.mp4
+#EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R202103/m-3.jpg" group-title="RaiPlay", I segreti di Marrowbone 2017
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/b3RMjTmwtvcCKHleFbuBMgeeqqEEqualeeqqEEqual_1800.mp4
+#EXTINF:-1 tvg-logo="https://mr.comingsoon.it/imgdb/locandine/235x336/5690.jpg" group-title="RaiPlay", Demoni 1985
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/15446662_2400.mp4
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/cropgd/300x400/dl/img/2019/10/29/1572364310183_1536x2048loghi.JPG" group-title="RaiPlay", Demoni II 1986
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/15446654_2400.mp4
+#EXTINF:-1 tvg-logo="https://www.cinefacts.it/foto/h!the-nest-poster-locandina_cinefacts__1_.png" group-title="RaiPlay", The nest il nido 2021
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/13944149_2400.mp4
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/cropgd/300x400/dl/img/2022/06/30/1656585805119_1536x2048_logo.jpeg" group-title="RaiPlay", Inganno letale 2021
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/raidue/raidue_multiaudio_geo/17324890_2401.mp4
+#EXTINF:-1 tvg-logo="https://www.minervapictures.com/wp-content/uploads/2019/06/L-Odore-della-Notte.jpg" group-title="RaiPlay", L'odore della notte 1998
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/yQRpPpPluss74jsdQ55Alv0P9RA9geeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2016/04/055/locandina.jpg" group-title="RaiPlay", Pericle il nero 2016
+http://creativemedia3.rai.it/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD_2/10028143_2400.mp4
+#EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R202108/m2-17.jpg" group-title="RaiPlay", L'altra madre di mia figlia 2020
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/15095895_3200.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2014/12/107/locandina.jpg" group-title="RaiPlay", Il professor Cenerentolo 2015
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/14417669_2400.mp4
+#EXTINF:-1 tvg-logo="https://movieplayer.net-cdn.it/t/images/2018/02/08/mv5bmtayody2mzuxntfeqtjeqwpwz15bbwu4mdc0nzm2nzqz_v1_sy1000_cr006741000_al__jpg_400x0_crop_q85.jpg" group-title="RaiPlay", Doppia colpa 2018
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/35WZ05MZ4eMCpPpPlusskQbyj7PnAeeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://www.adirai.it/media/2022/06/film-Cera-una-volta-a-Montecarlo-2020.jpg" group-title="RaiPlay", C'era una volta a Montecarlo 2020
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/GEw1pPpPlussTSeo2ulssSlashRlSnRUllQeeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2019/02/155/locandina.jpg" group-title="RaiPlay", Un giorno di pioggia a New York 2019
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/qoNXZ5hssSlasheU0R9cMiPB8fAAeeqqEEqualeeqqEEqual_1800.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2014/12/160/locandina.jpg" group-title="RaiPlay", Il nome del figlio 2015
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_3/9654821_1800.mp4
+#EXTINF:-1 tvg-logo="https://www.RaiPlay.it/cropgd/1365x2048/dl/img/2022/06/21/1655803794823_1536x2048_logo.jpg" group-title="RaiPlay", Nessuna bugia può rimanere nascosta 2020
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/raidue/raidue_multiaudio_geo/17274204_2401.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2017/05/217/locandina.jpg" group-title="RaiPlay", Il crimine non va in pensione 2017
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/12643747_1800.mp4
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/cropgd/1365x2048/dl/img/2021/12/24/1640346778378_1536x2048logo.jpg" group-title="RaiPlay", I fratelli De Filippo 2021
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/jUiIwIqqS07W5a2T48x43QeeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2018/10/015/locandina.jpg" group-title="RaiPlay", Tutte le mie notti 2018
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/15312207_2400.mp4
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/cropgd/1365x2048/dl/img/2022/04/04/1649063905026_1536x2048_logo.jpg" group-title="RaiPlay", Un uomo ordinario 2017
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/xSssSlasho7lXh8HtZpPpPlussnsWm3ft9AeeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://letturaecinema.altervista.org/wp-content/uploads/2020/10/Prigioniera_di_un_incubo_2003.jpg" group-title="RaiPlay", Prigioniera di un incubo 2021
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/raidue/raidue_multiaudio_geo/17109173_2401.mp4
+#EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R201407/under_the_skin_poster_ita_hd.jpg" group-title="RaiPlay", Under the skin 2013
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/i0i5XWOPyAiEaOHMNTzmWgeeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2018/07/209/locandina.jpg" group-title="RaiPlay", Il segreto di una famiglia 2018
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/dTO70HXR8Mu1mpaqrs71fAeeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2007/21/435/locandina.jpg" group-title="RaiPlay", Prova schiacciante 1991
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/RU2SrBmexxxdLknpPpPlussLkyHUweeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2018/11/274/locandina.jpg" group-title="RaiPlay", 5 è il numero perfetto 2019
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/15141851_2400.mp4
+#EXTINF:-1 tvg-logo="https://www.RaiPlay.it/cropgd/1365x2048/dl/img/2019/07/18/1563460696246_1536x2048-logo.JPG" group-title="RaiPlay", A Napoli non piove mai 2015
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/10651737_1800.mp4
+#EXTINF:-1 tvg-logo="https://www.RaiPlay.it/cropgd/300x400/dl/img/2021/06/09/1623232346091_1536x2048logo.jpg" group-title="RaiPlay", Chiudi gli occhi 2016
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/14716811_2400.mp4
+#EXTINF:-1 tvg-logo="https://www.RaiPlay.it/cropgd/300x400/dl/img/2021/04/19/1618846835470_1536x2048logo.jpg" group-title="RaiPlay", Lo spietato 2019
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/14417626_1800.mp4
+#EXTINF:-1 tvg-logo="https://www.RaiPlay.it/cropgd/300x400/dl/img/2021/01/04/1609761105206_1536x2048logo.jpg" group-title="RaiPlay", Il tuttofare 2018
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/13738640_1800.mp4
+#EXTINF:-1 tvg-logo="https://www.RaiPlay.it/cropgd/300x400/dl/img/2019/07/15/1563199894203_Un-tirchio-quasi-perfetto1536x2048.jpg.jpg" group-title="RaiPlay", Un tirchio quasi perfetto 2016
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/15445871_2400.mp4
+#EXTINF:-1 tvg-logo="https://www.filmtv.it/imgbank/GALLERYXL/R202204/ftv45-6256df83a614f-sp1.jpg" group-title="RaiPlay", Sulle mie spalle 2020
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/Cta5aZ0FZsRv1blr7vivqgeeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://mr.comingsoon.it/imgdb/locandine/big/37608.jpg" group-title="RaiPlay", Colpi proibiti 1990
+http://creativemedia1-rai-it.akamaized.net/Italy/podcastmhp/replaytv/rai4/16146011_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2006/06/256/locandina.jpg" group-title="RaiPlay", C'era una volta in America 1984
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/QMxSzZc9x78oysfrepPpPlussTmiweeqqEEqualeeqqEEqual_1800.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2018/04/168/locandina.jpg" group-title="RaiPlay", Malati di sesso 2018
+http://creativemedia1-rai-it.akamaized.net/Italy/podcastmhp/replaytv/raidue/sera/16179388_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2020/07/134/locandina.jpg" group-title="RaiPlay", La conferenza 2021 
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/raitre/raitre_multiaudio_geo/16095466_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2006/05/308/locandina.jpg" group-title="RaiPlay", L'estate del mio primo bacio 2006
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/13115591_1800.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2018/10/110/locandina.jpg" group-title="RaiPlay", Modalita aereo 2019 http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/14323509_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2017/01/034/locandina.jpg" group-title="RaiPlay", Hotel Gagarin 2018 
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/13046194_1800.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2017/06/155/locandina.jpg" group-title="RaiPlay", Metti la nonna in freezer 2018
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/14950393_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2007/08/162/locandina.jpg" group-title="RaiPlay", Ps: I love you 2007
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/6294543_1800.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2016/07/040/locandina.jpg" group-title="RaiPlay", Prima di lunedi 2016
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/10290042_1800.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2014/09/033/locandina.jpg" group-title="RaiPlay", Sei mai stata sulla luna? 2015
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/14856628_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2014/12/099/locandina.jpg" group-title="RaiPlay", Torno indietro e cambio vita 2015
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/11531158_1800.mp4
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/28fd3a59306859f794d0d30b62ca4ae366f5eddcfdc3a688d55a199f6f366094._RI_V_TTW_.jpg" group-title="RaiPlay", Zeta una storia hip hop 2016
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/12096336_1800.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61dC6EUir+L._SY445_.jpg" group-title="RaiPlay", Sfrattato cerca casa equo canone 1983
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/5679009_1800.mp4
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/CToAAOSwXyVYJZXi/s-l300.jpg" group-title="RaiPlay", Classic Albums Duran Duran Rio
+http://creativemedia4.rai.it/Italy/podcastcdn/Rai/Rai5/Rai5_Vod/Rai5_Vod_EP_Geoprotetto/14484836_2400.mp4
+#EXTINF:-1 tvg-logo="https://mr.comingsoon.it/imgdb/locandine/235x336/61649.jpg" group-title="RaiPlay", Ero in guerra ma non lo sapevo 2022
+http://creativemedia1-rai-it.akamaized.net/Italy/podcastmhp/replaytv/raiuno/sera/16241673_2401.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2016/12/155/locandina.jpg" group-title="RaiPlay", I segreti di Wind River 2017
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/15267923_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2019/04/188/locandina.jpg" group-title="RaiPlay", Gli anni più belli 2020 
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/0xM1kI0LdmipzbavL80LiAeeqqEEqualeeqqEEqual_1800.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2015/10/040/locandina.jpg" group-title="RaiPlay", Troppo napoletano 2016
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/12457208_1800.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2019/11/032/locandina.jpg" group-title="RaiPlay", 18 regali 2020
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/54riZTgkv5NOzrk5HfvXQweeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2017/04/213/locandina.jpg" group-title="RaiPlay", Contrattempo 2016
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/14746829_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2018/10/107/locandina.jpg" group-title="RaiPlay", Appena un minuto 2019
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/15383774_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2016/04/097/locandina.jpg" group-title="RaiPlay", Sette minuti dopo la mezzanotte 2015
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/11450340_1800.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2017/04/142/locandina.jpg" group-title="RaiPlay", A beautiful day 2017
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/15366603_2400.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2015/08/178/locandina.jpg" group-title="RaiPlay", Pay the ghost 2015
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/13329012_2400.mp4
+#EXTINF:-1 tvg-logo="https://mr.comingsoon.it/imgdb/locandine/big/54091.jpg" group-title="RaiPlay", Dogman 2018
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD_multiaudio/14376297_1800.mp4
+#EXTINF:-1 tvg-logo="https://pad.myPluto movies USA.it/filmclub/2018/11/256/locandina.jpg" group-title="RaiPlay", Copperman 2019
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/XRg3rXKhBSH13upPpPlussF4xYrdAeeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://mr.comingsoon.it/imgdb/locandine/big/58397.jpg" group-title="RaiPlay", Into the forest 2015
+http://creativemedia7-rai-it.akamaized.net/podcastcdn/teche_root/YT_ITALIA_TECHE_HD/zjnoy4TLFDG9anZu4xqTssSlashgeeqqEEqualeeqqEEqual_2400.mp4
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/cropgd/300x400/dl/img/2019/10/16/1571212586178_1536x2048logo.JPG" group-title="RaiPlay", I promessi sposi Il trio ep.1 1990
+ http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/5845332_1800.mp4
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/cropgd/300x400/dl/img/2019/10/16/1571212586178_1536x2048logo.JPG" group-title="RaiPlay", I promessi sposi Il trio ep.2 1990
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/5845141_1800.mp4
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/cropgd/300x400/dl/img/2019/10/16/1571212586178_1536x2048logo.JPG" group-title="RaiPlay", I promessi sposi Il trio ep.3 1990
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/5845020_1800.mp4
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/cropgd/300x400/dl/img/2019/10/16/1571212586178_1536x2048logo.JPG" group-title="RaiPlay", I promessi sposi Il trio ep.4 1990
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/5844773_1800.mp4
+#EXTINF:-1 tvg-logo="https://www.raiplay.it/cropgd/300x400/dl/img/2019/10/16/1571212586178_1536x2048logo.JPG" group-title="RaiPlay", I promessi sposi Il trio ep.5 1990
+http://creativemedia6-rai-it.akamaized.net/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_SD_2/5844897_1800.mp4
 #EXTINF:-1 tvg-logo="https://www.teleuniverso.it/wp-content/uploads/2020/01/Logo-TG-Universo.jpg" group-title="Notiziario", Ultimo TgUniverso
 https://www.teleuniverso.tv/VIDEO/TG/TGTU.mp4
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/carina-tv.jpg" group-title="Basilicata",Carina TV
-https://stream7.zivoli.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-nuova-tv.jpeg" group-title="Basilicata",La Nuova Tv
-https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/le-cronache-lucane-tv-canale-76.png" group-title="Basilicata",Le Cronache Lucane tv (canale 76)
-http://77.68.40.210:8888/hls/cronache.m3u8
-
 #EXTINF:-1 tvg-name="Explorer" tvg-id="explorer" tvg-logo="" group-title="Documentari",Explorer
 https://3e836341ee364c90b4519e5f0ae6c193.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/ONO_ExplorerHD/playlist.m3u8
 #EXTINF:-1 channel-id="pluto-60802b37709d6b0007b0c549" tvg-id="60802b37709d6b0007b0c549" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG.png" group-title="Documentari",Tv Natura
@@ -663,18 +925,9 @@ https://amg02512-nexodigital-amg02512c1-samsung-it-422.playouts.now.amagi.tv/pla
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetitsamsung-samsungit/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.fanpage.it/wp-content/uploads/sites/16/2020/02/rakuten-1200x675.jpg" group-title="Rakuten", Documentari - Rakuten TV
 https://rakuten-spotlight-6-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-name="Big Name" tvg-id="" tvg-logo="" group-title="Documentari",Big Name
+https://alchimie-big-name-rakuten.amagi.tv/playlist1080_p.m3u8
 #EXTINF:-1 channel-id="pluto-63c923944207be0007fd0887" tvg-id="63c923944207be0007fd0887" tvg-logo="https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG.png" group-title="Documentari",Tv Viaggi
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63c923944207be0007fd0887/master.m3u8?deviceId=0&deviceModel=web&deviceVersion=0&appVersion=0&deviceType=web&deviceMake=0&deviceDNT=true
 #EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668458" tvg-name="TGR Basilicata" , TGR Basilicata
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668458
-
-
-
-
-
-
-
-
-
-
-
