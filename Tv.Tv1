@@ -88,7 +88,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02758-rcsmediagroupsp-lifestyle-sam
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-italia.jpg" group-title="Altri Canali Nazionali",Canale Italia
 https://6e94aeeb1b42461d95f973ae34be5167.msvdn.net//ac115_live/canale1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ètv.JPG" group-title="Marche",ètv +
-https://live.ipstream.it/etvmarche2/etvmarche2.stream/playlist.m3u8
+https://live.ipstream.it/etv/etv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-padre-pio-hd.png" group-title="Altri Canali Nazionali",Tele Padre Pio HD
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele2000.png" group-title="Tv Italia", Tv2000
