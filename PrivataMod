@@ -89,7 +89,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02758-rcsmediagroupsp-lifestyle-sam
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-italia.jpg" group-title="Altri Canali Nazionali",Canale Italia
 https://liveac115.b-cdn.net/canale1.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="Ciao Usa" tvg-name="Ciao Usa" tvg-logo="http://odmsto.com/uploads/tv_image/sm/ciao-usa.jpg" group-title="Tv Italia",Ciao USA
-https://amg02347-ciaousafast-amg02347c1-ciao-us-1993.playouts.now.amagi.tv/playlist/amg02347-ciaousafast-ciaousalinear-ciaous/playlist.m3u8
+https://web.ventunotech.com/api/vod_live/vod_live_playlist.php?partner_hash=6684da2cbd1c0&channel_id=1921&epg_id=229&source=master&ext=Ciao_USA_Movies.m3u8
+
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ètv.JPG" group-title="Marche",ètv +
 https://live.ipstream.it/etvmarche2/etvmarche2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-padre-pio-hd.png" group-title="Altri Canali Nazionali",Tele Padre Pio HD
@@ -670,4 +671,3 @@ https://stream10.xdevel.com/video2s976570-2117/stream/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-basilicata.png" group-title="News e Canali Istituzionali",TGR Basilicata
 https://odmsto.com/returned/668458.m3u8 
- 
