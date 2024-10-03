@@ -138,7 +138,7 @@ https://raigulp1-dash-live.akamaized.net/dash/live/663985/raigulp1/manifest.mpd
 #EXTINF:-1 tvg-name="Rai YoYo" tvg-id="RaiYoYo.it" tvg-logo="" tvg-chno="43" group-title="Bambini", Rai YoYo HD
 https://raiyoyo1-dash-live.akamaized.net/dash/live/663949/raiyoyo1/manifest.mpd
 #EXTINF:-1 tvg-logo="http://www.pubblicomnow-online.it/wp-content/uploads/2019/10/Super_Logo2015_1280x800_RGB.png" group-title="Kids", Super!
-https://vimnitaly.akamaized.net/hls/live/2094034/super/master-2500.m3u8
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.RaiPlay.it/resizegd/275x-/dl/img/2020/01/09/1578595736370_Immagine.jpg" group-title="Kids", Teletubbies
 https://4dab4c773c874a00912d072efdafc136.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_WildBrainPresentsTeletubbies/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/d/d5/Logoyamatovideo.svg/1200px-Logoyamatovideo.svg.png" group-title="Kids", Yamato Animation
@@ -671,3 +671,4 @@ https://stream10.xdevel.com/video2s976570-2117/stream/playlist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-basilicata.png" group-title="News e Canali Istituzionali",TGR Basilicata
 https://odmsto.com/returned/668458.m3u8 
+ 
