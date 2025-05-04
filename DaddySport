@@ -1,0 +1,144 @@
+EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/daddylive-channels-epg.xml"
+
+#EXTINF:-1 tvg-id="M+.Vamos.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/vamos.png" group-title="SPAIN",#Vamos Spain
+https://windnew.newkso.ru/wind/premium521/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="20(Italian).it" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/20mediaset.png" group-title="ITALY",20 Mediaset Italy
+https://windnew.newkso.ru/wind/premium857/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/3sat.png" group-title="GERMANY",3sat DE
+https://ddy6new.newkso.ru/ddy6/premium726/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/5-usa.png" group-title="UNITED KINGDOM",5 USA
+https://windnew.newkso.ru/wind/premium360/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="6eren.dk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/6eren.png" group-title="DENMARK",6'eren Denmark
+https://dokko1new.newkso.ru/dokko1/premium800/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/a-sport-pk.png" group-title="PAKISTAN",A Sport PK
+https://ddy6new.newkso.ru/ddy6/premium269/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/aande.png" group-title="UNITED STATES",A&E USA
+https://zekonew.newkso.ru/zeko/premium302/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/abc.png" group-title="UNITED STATES",ABC USA
+https://zekonew.newkso.ru/zeko/premium51/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/abc.png" group-title="UNITED STATES",ABCNY USA
+https://zekonew.newkso.ru/zeko/premium766/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="ACC.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/acc-network.png" group-title="UNITED STATES",ACC Network USA
+https://dokko1new.newkso.ru/dokko1/premium664/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/amc.png" group-title="UNITED STATES",AMC USA
+https://nfsnew.newkso.ru/nfs/premium303/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="AXN.Movies.HD.pt" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/axn-movies.png" group-title="PORTUGAL",AXN Movies Portugal
+https://ddy6new.newkso.ru/ddy6/premium717/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="AXS.TV.USA.HD.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/axs-tv.png" group-title="UNITED STATES",AXS TV USA
+https://nfsnew.newkso.ru/nfs/premium742/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/abu-dhabi-sports.png" group-title="UNITED ARAB EMIRATES",Abu Dhabi Sports 1 Premium
+https://dokko1new.newkso.ru/dokko1/premium609/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/abu-dhabi-sports.png" group-title="UNITED ARAB EMIRATES",Abu Dhabi Sports 1 UAE
+https://windnew.newkso.ru/wind/premium600/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/abu-dhabi-sports.png" group-title="UNITED ARAB EMIRATES",Abu Dhabi Sports 2 Premium
+https://dokko1new.newkso.ru/dokko1/premium610/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/abu-dhabi-sports.png" group-title="UNITED ARAB EMIRATES",Abu Dhabi Sports 2 UAE
+https://dokko1new.newkso.ru/dokko1/premium601/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/adult-swim.png" group-title="UNITED STATES",Adult Swim
+https://ddy6new.newkso.ru/ddy6/premium295/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/alkass-four.png" group-title="QATAR",Alkass Four
+https://dokko1new.newkso.ru/dokko1/premium784/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/alkass-one.png" group-title="QATAR",Alkass One
+https://dokko1new.newkso.ru/dokko1/premium781/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/alkass-three.png" group-title="QATAR",Alkass Three
+https://dokko1new.newkso.ru/dokko1/premium783/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/alkass-two.png" group-title="QATAR",Alkass Two
+https://dokko1new.newkso.ru/dokko1/premium782/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="Altitude.Sports.-.Denver.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/altitude-sports.png" group-title="UNITED STATES",Altitude Sports
+https://nfsnew.newkso.ru/nfs/premium923/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/animal-planet.png" group-title="UNITED STATES",Animal Planet
+https://nfsnew.newkso.ru/nfs/premium304/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="Antena.3.es" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/antena-3.png" group-title="SPAIN",Antena 3 Spain
+https://dokko1new.newkso.ru/dokko1/premium531/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-1.png" group-title="BOSNIA AND HERZEGOVINA",Arena Sport 1 BiH
+https://windnew.newkso.ru/wind/premium579/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.hr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-1.png" group-title="CROATIA",Arena Sport 1 Croatia
+https://ddy6new.newkso.ru/ddy6/premium432/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-1-premium.png" group-title="SERBIA",Arena Sport 1 Premium
+https://windnew.newkso.ru/wind/premium134/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-1.png" group-title="SERBIA",Arena Sport 1 Serbia
+https://windnew.newkso.ru/wind/premium429/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.hr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-2.png" group-title="CROATIA",Arena Sport 2 Croatia
+https://zekonew.newkso.ru/zeko/premium433/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-2-premium.png" group-title="SERBIA",Arena Sport 2 Premium
+https://ddy6new.newkso.ru/ddy6/premium135/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-2.png" group-title="SERBIA",Arena Sport 2 Serbia
+https://zekonew.newkso.ru/zeko/premium430/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="Arena.Sport.3.HD.hr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-3.png" group-title="CROATIA",Arena Sport 3 Croatia
+https://ddy6new.newkso.ru/ddy6/premium434/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-3-premium.png" group-title="SERBIA",Arena Sport 3 Premium
+https://ddy6new.newkso.ru/ddy6/premium139/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-3.png" group-title="SERBIA",Arena Sport 3 Serbia
+https://windnew.newkso.ru/wind/premium431/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="Arena.Sport.4.HD.hr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-4.png" group-title="CROATIA",Arena Sport 4 Croatia
+https://windnew.newkso.ru/wind/premium580/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arena-sport-4.png" group-title="SERBIA",Arena Sport 4 Serbia
+https://windnew.newkso.ru/wind/premium581/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/arte.png" group-title="GERMANY",Arte DE
+https://ddy6new.newkso.ru/ddy6/premium725/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="Astro.Cricket.my" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-cricket.png" group-title="MALAYSIA",Astro Cricket
+https://zekonew.newkso.ru/zeko/premium370/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-1.png" group-title="MALAYSIA",Astro SuperSport 1
+https://zekonew.newkso.ru/zeko/premium123/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-2.png" group-title="MALAYSIA",Astro SuperSport 2
+https://windnew.newkso.ru/wind/premium124/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-3.png" group-title="MALAYSIA",Astro SuperSport 3
+https://zekonew.newkso.ru/zeko/premium125/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-supersport-4.png" group-title="MALAYSIA",Astro SuperSport 4
+https://zekonew.newkso.ru/zeko/premium126/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="Azteca.(XHOR).mx" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/azteca-7.png" group-title="MEXICO",Azteca 7 MX
+https://windnew.newkso.ru/wind/premium844/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="BBC.One.de" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-1.png" group-title="GERMANY",BBC 1 DE
+https://ddy6new.newkso.ru/ddy6/premium727/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-four.png" group-title="UNITED KINGDOM",BBC Four UK
+https://dokko1new.newkso.ru/dokko1/premium359/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bbc-news.png" group-title="UNITED STATES",BBC News Channel HD
+https://dokko1new.newkso.ru/dokko1/premium349/mono.m3u8|Referer=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fcaq21harderv991gpluralplay.xyz
+
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https
